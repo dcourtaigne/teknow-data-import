@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "pg": "^7.17.1",
+    "xlstream": "^1.0.11",
+    "xlsx": "^0.15.5"
   }
 }
